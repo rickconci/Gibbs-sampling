@@ -1,2 +1,3 @@
 # CompBio-MPhil
-Assignments with answers and code 
+
+Functional Genomics Assignment 1 November 2018
