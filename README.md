@@ -1,4 +1,4 @@
-# CompBio-MPhil
+# Statistical analysis of RNA sequencing data
 
 Functional Genomics Assignment 1 November 2018
 
